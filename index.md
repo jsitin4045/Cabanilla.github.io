@@ -14,20 +14,9 @@ excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 ## OBJETIVO
 
 - Esta pagina brinda informacion esencial de los principios de la ingeniería de Software, herramientas y conceptos basicos en esta rama   de las ciencias exactas
-- Simple and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+## 1.1 Fundamentos a la ingeniería de software
+Según Fritz Bauer (1969), más que una disciplina o una parte del conocimineto, la ingeniería es un verbo, una palabra de acción, un modo de enfocar un problema
+Es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software
 
 ## Examples
 
