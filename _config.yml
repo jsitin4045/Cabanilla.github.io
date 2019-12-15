@@ -8,6 +8,7 @@
 # 7. Site settings
 # 8. Site favicons & manifest icons
 # 9. Site navigation
+theme: alembic-jekyll-theme
 
 # 1. Files excluded from Jekyll builds
 exclude:
@@ -34,6 +35,7 @@ plugins:
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
+
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
