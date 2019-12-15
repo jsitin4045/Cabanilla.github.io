@@ -17,8 +17,23 @@ excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 ## 1.1 Fundamentos a la ingeniería de software
 Según Fritz Bauer (1969), más que una disciplina o una parte del conocimineto, la ingeniería es un verbo, una palabra de acción, un modo de enfocar un problema.
 Es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software (IEEE, 1993)
+OBJETIVOS:
+- Diseño de programas con respecto a las exigencias de la sociendad
+- Seguimiento de costes y plazos
+- Procesos de calidad en los sistemas, calculo de métricas y chequeo de calidad del software
+- Diseñar, construir y administrar bases de datos
 
 ## Evolución del Software
+Primera fase: Los albores (1945-1955)
+Programar no era una tarea diferenciada del diseño de una máquina (lenguaje máquina y emsamblador)
+Segunda fase: El florecimiento (1955-1965)
+Aparecimiento de una multitud de lenguajes
+Tercera fase: La crisis (1965-1970)
+Desarrollo inacabable de programas, errores e ineficiencia
+Cuarta fase: Innovación conceptual (1970-1980)
+Metodologías de diseño
+Quinta fase: El diseño es el problema (1980-?)
+Entornos de programación
 
 ## Installation
 
