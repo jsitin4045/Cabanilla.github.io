@@ -15,7 +15,7 @@ excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 
 - Esta pagina brinda informacion esencial de los principios de la ingeniería de Software, herramientas y conceptos basicos en esta rama   de las ciencias exactas
 ## 1.1 Fundamentos a la ingeniería de software
-Según Fritz Bauer (1969), más que una disciplina o una parte del conocimineto, la ingeniería es un verbo, una palabra de acción, un modo de enfocar un problema
+Según Fritz Bauer (1969), más que una disciplina o una parte del conocimineto, la ingeniería es un verbo, una palabra de acción, un modo de enfocar un problema.
 Es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software
 
 ## Examples
