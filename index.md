@@ -35,41 +35,44 @@ Metodologías de diseño;
 Quinta fase: El diseño es el problema (1980-?)
 Entornos de programación
 
-## Installation
+## 1.2 Proceso de ingeniería de Software
+CALIDAD DE SOFTWARE:
+Es la producción de un software que cumpla las exigencias del cliente y que sea posible darle mantenimiento. Factores que determianna la calidad: facilidad de mantenimiento, integridad, corrección, facilidad de uso y costo.
+## Sosfware de sistemas y de aplicaciones
+El software de sistemas mantiene el sistema infomático, mientras que el de aplicaciones provee servicios a clientes y ejecutar negocios de forma más eficiente
+## Ingenieria de Software
+Rama de la ingeniería que crea y mantiene aplicaciones usando tecnologías de las ciencias de la computación y otros campos
 
-### Quick setup
+### 1.3 Sistemas de información
+Lo define Peña (2016) como un conjunto de elementos que prestan atencion a las demandas de uan organizacion, para el amplio conociemiento de los registros que lleva la emperesa
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+TIPOS:
+- Sistemas transaccionales
+- Sistemas de soporte a la toma de decisiones
+- Sistemas estratégicos
 
-- ⚗️ Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
+### 2 MODELOS DE PROCESO DEL SOFTWARE
+Actividades necesarias para transformas las ideas del usuario, para desarrollar el producto software
+## 2.2 Ciclo de vida del Software
+Los proyectos de desarrollan en una serie de fases:
+1. Análisis
+2. Diseño
+3. Implementación
+4. Prueba
+5. Mantenimiento (correctivo, adaptativo, perfectivo y preventivo)
 
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
+## 2.3 Modelos de desarrollo
+Refleja las metas, conforme se construye de evalua las actividades 
+Modelo general:
+- Especificación
+- Diseño
+- Fabricación
+- Prueba
+- Instalación
+- Mantenimiento
 
-### As a Jekyll theme
+## Modelos Tradicionales
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
-
-### As a GitHub Pages remote theme
-
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
 ### As a Boilerplate / Fork
 
