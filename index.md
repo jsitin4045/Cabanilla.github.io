@@ -14,7 +14,7 @@ INTRODUCCION A SOFTWARE
 
 ## OBJETIVO
 
-- Available as a **theme gem** and **GitHub Pages** theme
+- Esta pagina brinda informacion esencial de los principios de la ingeniería de Software, herramientas y conceptos basicos en esta rama   de las ciencias exactas
 - Simple and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
