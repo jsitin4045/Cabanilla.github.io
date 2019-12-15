@@ -25,13 +25,13 @@ OBJETIVOS:
 
 ## Evolución del Software
 Primera fase: Los albores (1945-1955)
-Programar no era una tarea diferenciada del diseño de una máquina (lenguaje máquina y emsamblador)
+Programar no era una tarea diferenciada del diseño de una máquina (lenguaje máquina y emsamblador);
 Segunda fase: El florecimiento (1955-1965)
-Aparecimiento de una multitud de lenguajes
+Aparecimiento de una multitud de lenguajes;
 Tercera fase: La crisis (1965-1970)
-Desarrollo inacabable de programas, errores e ineficiencia
+Desarrollo inacabable de programas, errores e ineficiencia;
 Cuarta fase: Innovación conceptual (1970-1980)
-Metodologías de diseño
+Metodologías de diseño;
 Quinta fase: El diseño es el problema (1980-?)
 Entornos de programación
 
