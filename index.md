@@ -1,13 +1,12 @@
 ---
 title: About Alembic
 feature_text: |
-  ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  ## INTRODUCCION A LA INGENIERIA DE SOFTWARE
+  Una página creada con una plantilla de jekyll
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "INTRODUCCION A SOFTWARE"
+excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 ---
 
-INTRODUCCION A SOFTWARE
 
 {% include button.html text="Fork" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Personal Blog" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Clases" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
 
