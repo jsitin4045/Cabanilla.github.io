@@ -14,6 +14,7 @@ excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 ## OBJETIVO
 
 - Esta pagina brinda informacion esencial de los principios de la ingeniería de Software, herramientas y conceptos basicos en esta rama   de las ciencias exactas
+
 ## 1.1 Fundamentos a la ingeniería de software
 Según Fritz Bauer (1969), más que una disciplina o una parte del conocimineto, la ingeniería es un verbo, una palabra de acción, un modo de enfocar un problema.
 Es la aplicación de un enfoque sistemático, disciplinado y cuantificable hacia el desarrollo, operación y mantenimiento del software; es decir, la aplicación de Ingeniería de Software (IEEE, 1993)
@@ -38,14 +39,15 @@ Entornos de programación
 ## 1.2 Proceso de ingeniería de Software
 CALIDAD DE SOFTWARE:
 Es la producción de un software que cumpla las exigencias del cliente y que sea posible darle mantenimiento. Factores que determianna la calidad: facilidad de mantenimiento, integridad, corrección, facilidad de uso y costo.
+
 ## Sosfware de sistemas y de aplicaciones
 El software de sistemas mantiene el sistema infomático, mientras que el de aplicaciones provee servicios a clientes y ejecutar negocios de forma más eficiente
+
 ## Ingenieria de Software
 Rama de la ingeniería que crea y mantiene aplicaciones usando tecnologías de las ciencias de la computación y otros campos
 
 ### 1.3 Sistemas de información
 Lo define Peña (2016) como un conjunto de elementos que prestan atencion a las demandas de uan organizacion, para el amplio conociemiento de los registros que lleva la emperesa
-
 TIPOS:
 - Sistemas transaccionales
 - Sistemas de soporte a la toma de decisiones
@@ -53,7 +55,9 @@ TIPOS:
 
 ### 2 MODELOS DE PROCESO DEL SOFTWARE
 Actividades necesarias para transformas las ideas del usuario, para desarrollar el producto software
+---
 feature_image: "https://proyectosinformaticoscht2009.files.wordpress.com/2009/11/screenshot-21.png?w=300&h=222"
+---
 ## 2.1 Métodos de Desarrollo de Software
 Se dividen en dos grupos:
 # Orientado a Función/Dato
@@ -67,7 +71,7 @@ Datos y funciones estan relacionados y centrado en la abstracción de datos
 Por ejemplo: OOSE, OOA, OMT, UP y Catalysis
 
 ## 2.2 Ciclo de vida del Software
-Los proyectos de desarrollan en una serie de fases:
+Los proyectos se desarrollan en una serie de fases:
 1. Análisis
 2. Diseño
 3. Implementación
