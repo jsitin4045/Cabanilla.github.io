@@ -66,7 +66,7 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Postses # Needed for Siteleaf
     output: true
     description: "Justin Cabanilla" # The post list page content
     feature_text: 
@@ -113,7 +113,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Blog
-  url: /blog/
+  url: /
 
 
 navigation_footer:
