@@ -53,6 +53,19 @@ TIPOS:
 
 ### 2 MODELOS DE PROCESO DEL SOFTWARE
 Actividades necesarias para transformas las ideas del usuario, para desarrollar el producto software
+feature_image: "https://proyectosinformaticoscht2009.files.wordpress.com/2009/11/screenshot-21.png?w=300&h=222"
+## 2.1 Métodos de Desarrollo de Software
+Se dividen en dos grupos:
+# Orientado a Función/Dato
+Hacen enfasis en la transformación de datos, funciones dependientes y la estructura de lso datos. Las funciones dependen generalmente de la estructura de datos
+Por ejemplo: 
+SADT: Structured Analysis and Design Technique
+RDD: Requirement Driven Design
+SA/SD: Structured Analysis and Structured Design
+# Orientado a Objetos
+Datos y funciones estan relacionados y centrado en la abstracción de datos
+Por ejemplo: OOSE, OOA, OMT, UP y Catalysis
+
 ## 2.2 Ciclo de vida del Software
 Los proyectos de desarrollan en una serie de fases:
 1. Análisis
@@ -72,6 +85,29 @@ Modelo general:
 - Mantenimiento
 
 ## Modelos Tradicionales
+Formados por un conjunto de fases o actividades en las que no tienen en cuenta la naturaleza evolutiva del software
+Método de Cascada:
+Ordena rigurosamente las etapas del ciclo de vida del software de forma tal que el inicio de cada etapa debe esperar a la finalización inmediata de la anterior
+Método Prototipo:
+Este método es útil cuando el cliente no identifica los requisistos detallados. El sistema se contruye rapidamente para aclarar aspectos que aeguren al desarrollador
+Modelo Espiral:
+Las actividades no están fijadas , sino que las siguientes se eligen en función al análisis de riesgo
+
+## Metodologías ágiles
+Son herramientas que se emplean en el desarrollo de software que permiten que sea adaptable a los posibles cambios, a errores y cambios en su diseño. Un proceso que debe adaptarse incrementalmente y retroalimentación del cliente.
+## SCRUM
+Se basa en el empirismo que asegura que se resuelva con los conocimientos y la experiencia
+## CYSTAL
+El problema se divide en colores, mientras mas oscuro es más complejo el problema
+## ADAPTATIVE
+Se adapta al cambio en lugar de luchar contral él, es fácul modificacion y se divide en tres fases: Especulacion, colaboracion y aprendisaje
+## Xtreme programming 
+Ligera al desarrollar software que se basa en la simplicidad, comunicación y la realimentación
+## KanBan
+Sistema de etiquetas que identifican los procesos de fabricació y transporte. Para llevar un registro
+## DSDM
+
+
 
 
 ### As a Boilerplate / Fork
