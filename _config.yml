@@ -113,7 +113,7 @@ navigation_header:
 - title: Home
   url: https://jsitin4045.github.io/Cabanilla.github.io/
 - title: Blog
-  url: 
+  url: /blog/
 
 navigation_footer:
 - title: Created by Justin Cabanilla
