@@ -56,7 +56,10 @@ TIPOS:
 ### 2 MODELOS DE PROCESO DEL SOFTWARE
 Actividades necesarias para transformas las ideas del usuario, para desarrollar el producto software
 ---
-feature_image: "https://proyectosinformaticoscht2009.files.wordpress.com/2009/11/screenshot-21.png?w=300&h=222"
+title: 
+feature_text: 
+feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: Modelos
 ---
 ## 2.1 Métodos de Desarrollo de Software
 Se dividen en dos grupos:
