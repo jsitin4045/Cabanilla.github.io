@@ -8,7 +8,7 @@ excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 ---
 
 
-{% include button.html text="Fork" icon="github" link="https://github.com/jsitin4045" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/CabanillaJustin" color="#0d94e7" %} {% include button.html text="Personal Blog" link="https://github.com/daviddarnes/alembic#installation" color="#333333" %} 
+{% include button.html text="Fork" icon="github" link="https://github.com/jsitin4045" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/CabanillaJustin" color="#0d94e7" %} {% include button.html text="Personal Blog" link="https://alembic.darn.es/blog/" color="#333333" %} 
 
 
 ## OBJETIVO
