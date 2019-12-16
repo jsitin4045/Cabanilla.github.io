@@ -8,7 +8,7 @@ excerpt: "PINCIPIOS DE LA INGENIERIA DE SOFTWARE"
 ---
 
 
-{% include button.html text="Fork" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Personal Blog" link="https://github.com/daviddarnes/alembic#installation" %} {% include button.html text="Clases" link="https://www.paypal.me/daviddarnes/5usd" color="#333333" %}
+{% include button.html text="Fork" icon="github" link="https://github.com/jsitin4045" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/CabanillaJustin" color="#0d94e7" %} {% include button.html text="Personal Blog" link="https://github.com/daviddarnes/alembic#installation" color="#333333" %} 
 
 
 ## OBJETIVO
@@ -54,13 +54,8 @@ TIPOS:
 - Sistemas estratégicos
 
 ### 2 MODELOS DE PROCESO DEL SOFTWARE
-Actividades necesarias para transformas las ideas del usuario, para desarrollar el producto software
----
-title: 
-feature_text: 
-feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: Modelos
----
+Actividades necesarias para transformar las ideas del usuario y para desarrollar el producto software
+
 ## 2.1 Métodos de Desarrollo de Software
 Se dividen en dos grupos:
 # Orientado a Función/Dato
